@@ -1,4 +1,4 @@
-# Loïc Calcagno
+# Calcagno Loïc
 
 Hello there! Welcome on my GitHub page!
 
