@@ -1,6 +1,4 @@
-# Calcagno Loïc
-
-Hello there! Welcome on my GitHub page!
+# Hello there! Welcome on my GitHub page!
 
 :house: Belgium 
 
