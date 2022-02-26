@@ -1,4 +1,4 @@
-# Hey! Welcome on my GitHub page!
+# Hey! Welcome on my GitHub profile!
 
 ## About me:
 - :house: Belgium 
