@@ -2,8 +2,8 @@
 
 ## About me:
 - :house: Belgium 
-- :school: I’m currently learning to code at [BeCode](https://becode.org/fr/apprendre/developpeur-web-junior/)
-- 🥅 2022 Goals: To be a back-end developer and working with PHP and SQL
+- :school: I’m currently learning at [BeCode](https://becode.org/fr/apprendre/developpeur-web-junior/)
+- 🥅 2022 Goals: To be a back-end developer
 - 🔭 My passions are IT, AI, video games (obviously), films and series, walks in nature, swimming
 - :pizza: Pinneaple on pizza? **NO WAY**
 
