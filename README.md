@@ -8,7 +8,13 @@
 - :pizza: Pinneaple on pizza? **NO WAY**
 
 ## Connect with me:
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" /> [Linkedin](https://www.linkedin.com/in/loic-calcagno-47b0/)
+<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" /> [Linkedin](https://www.linkedin.com/in/loic-calcagno-47b0/)
+<br/>
+
+<img align="left" alt="Mail pro gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_Gmail_%282015-2020%29.svg" /> [Adresse mail pro](mailto:calcagnoloic93@gmail.com)
+<br/>
+
+<img align="left" alt="Mail pro hotmail" width="28px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5CbK-6DudVGQ94Sc3_Hfah-QO6kEkM8ptQjJnUIgpJl6YeEDs8btQ_eXwFIx5OUZq-WA&usqp=CAU" /> [Adresse mail pro](mailto:loic.calcagno@hotmail.com)
 
 
 ## Languages and Tools:
