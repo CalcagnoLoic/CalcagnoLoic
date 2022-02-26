@@ -1,8 +1,7 @@
-# Hello there! Welcome on my GitHub page!
-
-:house: Belgium 
+# Hey! Welcome on my GitHub page!
 
 ## About me:
+- :house: Belgium 
 - :school: I’m currently learning to code at [BeCode](https://becode.org/fr/apprendre/developpeur-web-junior/)
 - 🥅 2022 Goals: To be a back-end developer and working with PHP and SQL
 - 🔭 My passions are IT, AI, video games (obviously), films and series, walks in nature, swimming
