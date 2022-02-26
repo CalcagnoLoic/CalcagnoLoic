@@ -4,21 +4,15 @@ Hello there! Welcome on my GitHub page!
 
 :house: Belgium 
 
-<br />
-
 ## About me:
 - :school: I’m currently learning to code at [BeCode](https://becode.org/fr/apprendre/developpeur-web-junior/)
 - 🥅 2022 Goals: To be a back-end developer and working with PHP and SQL
 - 🔭 My passions are IT, AI, video games (obviously), films and series, walks in nature, swimming
 - :pizza: Pinneaple on pizza? **NO WAY**
 
-<br />
-
-
 ## Connect with me:
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" /> [Linkedin](https://www.linkedin.com/in/loic-calcagno-47b0/)
 
-<br />
 
 ## Languages and Tools:
 - <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/> <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/> <img align="left" alt="GitHub" width="35px" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyR9QrHLtwFavW-9527l7pJQflPT2mVN9IuA&usqp=CAU"/> <img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1028px-Visual_Studio_Code_1.18_icon.svg.png" /> <img align="left" alt="Rstudio" width="70px" src="https://upload.wikimedia.org/wikipedia/fr/4/4e/RStudio_Logo.png" /> <img align="left" alt="Jupyter Notebook" width="30px" src="https://technology.amis.nl/wp-content/uploads/2020/11/image-27.png" />
