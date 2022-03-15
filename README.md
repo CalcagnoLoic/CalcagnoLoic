@@ -18,6 +18,9 @@
 
 
 ## Languages and Tools:
+
+[![wakatime](https://wakatime.com/badge/user/feb05b66-4b7c-4873-a9b9-b5c1b0e71806.svg)](https://wakatime.com/@feb05b66-4b7c-4873-a9b9-b5c1b0e71806)
+
 - <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/> <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/> <img align="left" alt="GitHub" width="35px" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyR9QrHLtwFavW-9527l7pJQflPT2mVN9IuA&usqp=CAU"/> 
 <br />
 
