@@ -21,9 +21,9 @@
 [![wakatime](https://wakatime.com/badge/user/feb05b66-4b7c-4873-a9b9-b5c1b0e71806.svg)](https://wakatime.com/@feb05b66-4b7c-4873-a9b9-b5c1b0e71806)
 
 
-|Technologies|Langage and tool|
+|Technologies|Languages and tools|
 |------------|----------------|
-|General technologies| <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/> <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/> <img align="left" alt="GitHub" width="35px" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyR9QrHLtwFavW-9527l7pJQflPT2mVN9IuA&usqp=CAU"/> |
+|General tools| <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/> <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/> <img align="left" alt="GitHub" width="35px" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyR9QrHLtwFavW-9527l7pJQflPT2mVN9IuA&usqp=CAU"/> |
 |Front-end technologies|<img align="left" alt="HTML5" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" /> <img align="left" alt="CSS3" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" /> <img align="left" alt="SASS" width="28px" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" />|
 |Back-end technologies|<img align="left" alt="JS" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />|
 |Statistical technologies|<img align="left" alt="SQL" width="60px" height="30px" src="https://www.lebigdata.fr/wp-content/uploads/2016/12/sql.png" /><img align="left" alt="R" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png"/>|
