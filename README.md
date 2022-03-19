@@ -2,7 +2,7 @@
 
 ## About me:
 - :school: I’m currently learning at [BeCode](https://becode.org/fr/apprendre/developpeur-web-junior/)
-- 🥅 2022 Goals: To be a back-end developer
+- 🥅 2022 Goals: To be a full stack developer
 - 🔭 My passions are IT, AI, video games (obviously), films and series, walks in nature, swimming
 - :pizza: Pinneaple on pizza? **NO WAY**
 
