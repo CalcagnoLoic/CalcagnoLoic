@@ -20,11 +20,26 @@
 
 [![wakatime](https://wakatime.com/badge/user/feb05b66-4b7c-4873-a9b9-b5c1b0e71806.svg)](https://wakatime.com/@feb05b66-4b7c-4873-a9b9-b5c1b0e71806)
 
+*General tools*
 
-|Technologies|Languages and tools|
-|------------|----------------|
-|General tools| <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/> <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/> <img align="left" alt="GitHub" width="35px" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyR9QrHLtwFavW-9527l7pJQflPT2mVN9IuA&usqp=CAU"/> |
-|Front-end technologies|<img align="left" alt="HTML5" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" /> <img align="left" alt="CSS3" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" /> <img align="left" alt="SASS" width="28px" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" />|
-|Back-end technologies|<img align="left" alt="JS" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />|
-|Statistical technologies|<img align="left" alt="SQL" width="60px" height="30px" src="https://www.lebigdata.fr/wp-content/uploads/2016/12/sql.png" /><img align="left" alt="R" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png"/>|
-|Tools|<img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1028px-Visual_Studio_Code_1.18_icon.svg.png" /> <img align="left" alt="Rstudio" width="70px" src="https://upload.wikimedia.org/wikipedia/fr/4/4e/RStudio_Logo.png" /> <img align="left" alt="Jupyter Notebook" width="30px" src="https://technology.amis.nl/wp-content/uploads/2020/11/image-27.png" />|
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+*Front-end technologies*
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+*Back-end technologies*
+
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+*Statistical technologies*
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
