@@ -6,7 +6,7 @@
   <li>🏅 To be a full stack developer</li>
   <li>📒 Self-taught, rigorous, stress-resistant, solo or group worker</li>
   <li>🎬 My passions are IT, AI, video games (obviously), films and series, walks in nature, swimming</li>
-  <li>:pizza: Pinneaple on pizza? **NO WAY**</li>
+  <li>:pizza: Pinneaple on pizza? <strong>NO WAY</strong></li>
 </ul>
 
 <h2>Connect with me :</h2>
