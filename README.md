@@ -1,4 +1,4 @@
-# Hey! Welcome on my GitHub profile!
+<h1 align="center">Hey! Welcome on my GitHub profile!</h1>
 
 ## About me:
 - :school: I’m currently learning at [BeCode](https://becode.org/fr/apprendre/developpeur-web-junior/)
@@ -40,3 +40,6 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+## My GitHub stats card
+![CalcagnoLoic's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalcagnoLoic&theme=cobalt)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalcagnoLoic&layout=compact&theme=cobalt&langs_count=10)
