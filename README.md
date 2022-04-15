@@ -38,17 +38,26 @@
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+<h3>Back-end technologies :</h3>
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
 <h3>Statistical technologies :</h3>
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h3>Most used languages :</h3>
+<h2>Most used languages :</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalcagnoLoic&layout=compact&theme=cobalt&langs_count=10&hide_title=true&hide_border=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalcagnoLoic&layout=compact&theme=cobalt&langs_count=10&hide_title=true&hide_border=true" /> 
+</p>
+
 
 <h2>My GitHub stats card :</h2> 
 
-![CalcagnoLoic's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalcagnoLoic&theme=cobalt&hide_border=true&hide_title=true) 
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=CalcagnoLoic&theme=cobalt&hide_border=true&hide_title=true" /> 
+</p>
