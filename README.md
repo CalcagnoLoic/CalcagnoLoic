@@ -61,3 +61,9 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=CalcagnoLoic&theme=cobalt&hide_border=true&hide_title=true" /> 
 </p>
+
+<h2>My profile summary card :</h2> 
+
+<p align="center">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CalcagnoLoic&theme=vue" /> 
+</p>
