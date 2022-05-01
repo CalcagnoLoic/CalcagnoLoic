@@ -19,6 +19,8 @@
 
 <img align="left" alt="Mail pro hotmail" width="22px" src="https://icon-library.com/images/microsoft-mail-icon/microsoft-mail-icon-14.jpg" /> [Email address](mailto:loic.calcagno@hotmail.com)
 
+<img align="left" alt="Online CV" width="22px" src="https://cdn-icons.flaticon.com/png/512/1604/premium/1604533.png?token=exp=1651411243~hmac=7aac048a741f1e0751b35bb68c7c63c2"/> [Online CV](https://calcagnoloic.github.io/CV/)
+
 <h2>Languages and Tools :</h2> 
 
 [![wakatime](https://wakatime.com/badge/user/feb05b66-4b7c-4873-a9b9-b5c1b0e71806.svg)](https://wakatime.com/@feb05b66-4b7c-4873-a9b9-b5c1b0e71806)
