@@ -3,7 +3,7 @@
 <h2>About me :</h2>
 <ul>
   <li>:school: I’m currently learning at <a href="https://becode.org/fr/apprendre/developpeur-web-junior/">BeCode</a></li>
-  <li>🏅 To be a full stack developer</li>
+  <li>🏅 To be a full stack developer. I would especially like to specialise in Python and Machine Learning</li>
   <li>📒 Self-taught, rigorous, stress-resistant, solo or group worker</li>
   <li>🎬 My passions are IT, AI, video games (obviously), films and series, walks in nature, swimming</li>
   <li>:pizza: Pinneaple on pizza? <strong>NO WAY</strong></li>
