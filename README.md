@@ -6,7 +6,6 @@
   <li>🏅 To be a full stack developer. I would especially like to specialise in Python and Machine Learning</li>
   <li>📒 Self-taught, rigorous, stress-resistant, solo or group worker</li>
   <li>🎬 My passions are IT, AI, video games (obviously), films and series, walks in nature, swimming</li>
-  <li>:pizza: Pinneaple on pizza? <strong>NO WAY</strong></li>
 </ul>
 
 <h2>Connect with me :</h2>
@@ -18,8 +17,6 @@
 <br/>
 
 <img align="left" alt="Mail pro hotmail" width="22px" src="https://icon-library.com/images/microsoft-mail-icon/microsoft-mail-icon-14.jpg" /> [Email address](mailto:loic.calcagno@hotmail.com)
-
-<img align="left" alt="Online CV" width="22px" src="https://cdn-icons.flaticon.com/png/512/1604/premium/1604533.png?token=exp=1651411243~hmac=7aac048a741f1e0751b35bb68c7c63c2"/> [Online CV](https://calcagnoloic.github.io/CV/)
 
 <h2>Languages and Tools :</h2> 
 
