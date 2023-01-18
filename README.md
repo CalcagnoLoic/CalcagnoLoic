@@ -58,14 +58,14 @@
 <h2>Most used languages :</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalcagnoLoic&layout=compact&theme=cobalt&langs_count=10&hide_title=true&hide_border=true" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalcagnoLoic&layout=compact&theme=cobalt&langs_count=8&hide_title=true&" /> 
 </p>
 
 
 <h2>My GitHub stats card :</h2> 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=CalcagnoLoic&theme=cobalt&hide_border=true&hide_title=true" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=CalcagnoLoic&theme=cobalt&hide_title=true" /> 
 </p>
 
 <h2>My profile summary card :</h2> 
