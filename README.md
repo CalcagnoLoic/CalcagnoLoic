@@ -6,22 +6,22 @@
 
 <p>Hey, welcome to my Github profile <img src="img/hi.png" alt="Icone git" width=20 height=20/></p>
 
-After 7 months of intensive training at [becode](https://becode.org/fr/apprendre/developpeur-web-junior/) and 3 months of internship at [I-care](https://www.icareweb.com/fr/), I'm looking for a job as a Python developer 🐍
+After 7 months of intensive training at [becode](https://becode.org/fr/apprendre/developpeur-web-junior/) and 3 months of internship at [I-care](https://www.icareweb.com/fr/), I'm looking for a job as a Python Developer Junior 🐍
 
 <p>During the training, I was confronted with various frontend and backend issues. I went towards the backend and in particular Python. During my internship, I was able to deepen my knowledge with a project focused on data engineering. My job was to create a data pipeline to send only updated data to the database. An artificial intelligence implementation was also added to the pipeline. I was also able to do some cybersecurity with Google autenthification.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/loic-calcagno/">
-    <img alt="LinkedIn" width="38px" src="img/linkedin.png" />
+    <img alt="LinkedIn" width="38px" src="img/linkedin.png"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:calcagnoloic93@gmail.com">
-    <img alt="Mail pro gmail" width="40px" src="img/mail.png" />
+    <img alt="Mail pro gmail" width="40px" src="img/mail.png"/>
   </a>
 </p>
 
 <h1 align="center">My tech skills</h1>
 
-> Below you can find the different languages and tools I use in my work: 
+> Below you can find the different languages and tools I use in my work : 
 
 <table>
   <tr>
