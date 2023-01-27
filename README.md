@@ -103,15 +103,23 @@
   </tr>
 </table>
 
-<h2>Most used languages :</h2><h2>My GitHub stats card :</h2> 
+<h2 align="center">My summary cards</h2>
+
+<h2>My GitHub Stat Trophies</h2> 
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CalcagnoLoic" alt="Trophées Github" />
+</p>
+
+<h2>Most used languages :My GitHub stats card :</h2> 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalcagnoLoic&layout=compact&theme=cobalt&langs_count=8&hide_title=true&" /> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CalcagnoLoic&theme=cobalt&hide_title=true" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=CalcagnoLoic&theme=cobalt&hide_title=true" /> 
 </p>
 
 <h2>My profile summary card :</h2> 
 
 <p align="center">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CalcagnoLoic&theme=vue" /> 
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CalcagnoLoic&theme=vue" /> 
 </p>
