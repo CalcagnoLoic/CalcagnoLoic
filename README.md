@@ -26,16 +26,16 @@
 
 <table>
   <tr>
-    <td align="center" width=68 height=68>
-      <img src="img/git-icon.png" alt="Icone git"/>
+    <td align="center">
+      <img src="img/git-icon.png" alt="Icone git" width=68 height=68/>
       <br><p>Git</p>
     </td>
-    <td align="center" width=68 height=68>
-      <img src="img/github-icon.png" alt="Icone github">
+    <td align="center">
+      <img src="img/github-icon.png" alt="Icone github" width=68 height=68 />
       <br>Github
     </td>
-    <td align="center" width=68 height=68>
-      <img src="img/stack-icon.png" alt="Icone Stackoverflow">
+    <td align="center">
+      <img src="img/stack-icon.png" alt="Icone Stackoverflow" width=68 height=68>
       <br>Stackoverflow
     </td>
     <td align="center" width=68 height=68>
