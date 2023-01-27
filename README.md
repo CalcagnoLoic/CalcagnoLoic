@@ -1,25 +1,25 @@
-<h1 align="center">Hey! Welcome on my GitHub profile! 👋</h1>
-
-<h2 align="center">About me</h2>
+<p align="center">
+  <img src="img/hey.gif" alt="Icone git" width=300 align="center"/>
+</p>
+<br>
+<h1 align="center">About me</h1>
 
 <p>Hey, welcome to my Github profile <img src="img/hi.png" alt="Icone git" width=20 height=20/></p>
 
-<p>After 7 months of intensive training at [becode](https://becode.org/fr/apprendre/developpeur-web-junior/) and 3 months of internship at ICARE, I'm looking for a job as a Python developer *ICONE SERPENT* </p>
+After 7 months of intensive training at [becode](https://becode.org/fr/apprendre/developpeur-web-junior/) and 3 months of internship at [I-care](https://www.icareweb.com/fr/), I'm looking for a job as a Python developer 🐍
 
 <p>During the training, I was confronted with various frontend and backend issues. I went towards the backend and in particular Python. During my internship, I was able to deepen my knowledge with a project focused on data engineering. My job was to create a data pipeline to send only updated data to the database. An artificial intelligence implementation was also added to the pipeline. I was also able to do some cybersecurity with Google autenthification.</p>
 
-<a href="https://www.linkedin.com/in/loic-calcagno-47b0/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" align="center"/>
-</a>
-<a href="mailto:calcagnoloic93@gmail.com">
-  <img align="left" alt="Mail pro gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_Gmail_%282015-2020%29.svg" align="center"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/loic-calcagno-47b0/">
+    <img alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" />
+  </a>
+  <a href="mailto:calcagnoloic93@gmail.com">
+    <img alt="Mail pro gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_Gmail_%282015-2020%29.svg" />
+  </a>
+</p>
 
-<h2 align="center">Languages and Tools</h2> 
-
-[![wakatime](https://wakatime.com/badge/user/feb05b66-4b7c-4873-a9b9-b5c1b0e71806.svg)](https://wakatime.com/@feb05b66-4b7c-4873-a9b9-b5c1b0e71806)
-
-<h2 align="center">My tech skills</h2>
+<h1 align="center">My tech skills</h1>
 
 <table>
   <tr>
@@ -100,7 +100,9 @@
   </tr>
 </table>
 
-<h2 align="center">My summary cards</h2>
+[![wakatime](https://wakatime.com/badge/user/feb05b66-4b7c-4873-a9b9-b5c1b0e71806.svg)](https://wakatime.com/@feb05b66-4b7c-4873-a9b9-b5c1b0e71806)
+
+<h1 align="center">My summary cards</h2>
 
 <h2>My GitHub Stat Trophies</h2> 
 
