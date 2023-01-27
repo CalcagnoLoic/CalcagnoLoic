@@ -26,114 +26,78 @@
 
 <table>
   <tr>
-    <td align="center">
-      <a>
-        <img src="img/git-icon.png" alt="Icone git"/>
-      </a>
+    <td align="center" width=68 height=68>
+      <img src="img/git-icon.png" alt="Icone git"/>
       <br><p>Git</p>
     </td>
-    <td align="center" width=96>
-      <a >
-        <img src="img/github-icon.png" alt="Icone github">
-      </a>
+    <td align="center" width=68 height=68>
+      <img src="img/github-icon.png" alt="Icone github">
       <br>Github
     </td>
-    <td align="center">
-      <a >
-        <img src="img/stack-icon.png" alt="Icone Stackoverflow">
-      </a>
+    <td align="center" width=68 height=68>
+      <img src="img/stack-icon.png" alt="Icone Stackoverflow">
       <br>Stackoverflow
     </td>
-    <td align="center" width=96>
-      <a >
-        <img src="img/vscode-icon.png" alt="Icone vscode">
-      </a>
+    <td align="center" width=68 height=68>
+      <img src="img/vscode-icon.png" alt="Icone vscode">
       <br>Visual Studio Code
     </td>
-    <td align="center" width=96>
-      <a >
-        <img src="img/pycharm-icon.png" alt="Icone pycharm">
-      </a>
+    <td align="center" width=68 height=68>
+      <img src="img/pycharm-icon.png" alt="Icone pycharm">
       <br>Pycharm
     </td>
-    <td align="center" width=96>
-      <a >
-        <img src="img/markdown-icon.png" alt="Icone markdown">
-      </a>
+    <td align="center" width=68 height=68>
+      <img src="img/markdown-icon.png" alt="Icone markdown">
       <br>Markdown
     </td>
-    <td align="center" width=96>
-      <a >
-        <img src="img/html-icon.png" alt="Icone html">
-      </a>
-      <br>Html5
+    <td align="center" width=68 height=68>
+      <img src="img/html-icon.png" alt="Icone html">
+      <br>HTML
     </td>
-    <td align="center" width=96>
-      <a >
-        <img src="img/css-icon.png" alt="Icone css">
-      </a>
-      <br>CSS3
+    <td align="center" width=68 height=68>
+      <img src="img/css-icon.png" alt="Icone css">
+      <br>CSS
     </td>
-    <td align="center" width=96>
-      <a >
-        <img src="img/sass-icon.png" alt="Icone sass">
-      </a>
+    <td align="center" width=68 height=68>
+      <img src="img/sass-icon.png" alt="Icone sass">
       <br>SASS
     </td>
   </tr>
   <tr>
-    <td align="center" width=96>
-      <a >
-        <img src="img/bootstrap-icon.png" alt="Icone bootstrap">
-      </a>
+    <td align="center" width=68 height=68>
+      <img src="img/bootstrap-icon.png" alt="Icone bootstrap">
       <br>Bootstrap
     </td>
-    <td align="center">
-      <a>
-        <img src="img/tailwind-icon.png" alt="Icone tailwind"/>
-      </a>
+    <td align="center" width=68 height=68>
+      <img src="img/tailwind-icon.png" alt="Icone tailwind"/>
       <br>Tailwind
     </td>
-    <td align="center">
-      <a >
-        <img src="img/js-icon.png" alt="Icone js">
-      </a>
+    <td align="center" width=68 height=68>
+      <img src="img/js-icon.png" alt="Icone js">
       <br>Javascript
     </td>
-    <td align="center" width=96>
-      <a >
-        <img src="img/php-icon.png" alt="Icone php">
-      </a>
+    <td align="center" width=68 height=68>
+      <img src="img/php-icon.png" alt="Icone php">
       <br>PHP
     </td>
-    <td align="center" width=96>
-      <a >
-        <img src="img/mysql-icon.png" alt="Icone mysql">
-      </a>
+    <td align="center" width=68 height=68>
+      <img src="img/mysql-icon.png" alt="Icone mysql">
       <br>MySQL
     </td>
-    <td align="center" width=96>
-      <a >
-        <img src="img/sqlite-icon.png" alt="Icone sqlite">
-      </a>
+    <td align="center" width=68 height=68>
+      <img src="img/sqlite-icon.png" alt="Icone sqlite">
       <br>SQLite
     </td>
-    <td align="center" width=96>
-      <a >
-        <img src="img/r-icon.png" alt="Icone r">
-      </a>
+    <td align="center" width=68 height=68>
+      <img src="img/r-icon.png" alt="Icone r">
       <br>R
     </td>
-    <td align="center" width=96>
-      <a >
-        <img src="img/python-icon.png" alt="Icone python">
-      </a>
+    <td align="center" width=68 height=68>
+      <img src="img/python-icon.png" alt="Icone python">
       <br>Python
     </td>
-    <td align="center" width=96>
-      <a >
-        <img src="img/django-icon.png" alt="Icone django">
-      </a>
+    <td align="center" width=68 height=68>
+      <img src="img/django-icon.png" alt="Icone django">
       <br>Django
     </td>
   </tr>
