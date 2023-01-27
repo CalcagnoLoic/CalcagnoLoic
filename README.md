@@ -22,50 +22,72 @@
 
 [![wakatime](https://wakatime.com/badge/user/feb05b66-4b7c-4873-a9b9-b5c1b0e71806.svg)](https://wakatime.com/@feb05b66-4b7c-4873-a9b9-b5c1b0e71806)
 
-<h3>General tools :</h3>
+<h2 align="center">My tech skills</h2>
 
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-777CB4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+<table>
+  <tr>
+    <td align="center">
+      <a>
+        <img src="img/git-icon.png" alt="Icone git"/>
+      </a>
+      <br><p>Git</p>
+    </td>
+    <td align="center">
+      <a >
+        <img src="img/stack-icon.png" alt="Icone Stackoverflow">
+      </a>
+      <br>Stackoverflow
+    </td>
+    <td align="center" width=96>
+      <a >
+        <img src="img/vscode-icon.png" alt="Icone vscode">
+      </a>
+      <br>Visual Studio Code
+    </td>
+    <td align="center" width=96>
+      <a >
+        <img src="img/pycharm-icon.png" alt="Icone pycharm">
+      </a>
+      <br>Pycharm
+    </td>
+    <td align="center" width=96>
+      <a >
+        <img src="img/markdown-icon.png" alt="Icone markdown">
+      </a>
+      <br>Markdown
+    </td>
+    <td align="center" width=96>
+      <a >
+        <img src="img/html-icon.png" alt="Icone html">
+      </a>
+      <br>Html5
+    </td>
+    <td align="center" width=96>
+      <a >
+        <img src="img/css-icon.png" alt="Icone css">
+      </a>
+      <br>CSS3
+    </td>
+    <td align="center" width=96>
+      <a >
+        <img src="img/sass-icon.png" alt="Icone sass">
+      </a>
+      <br>SASS
+    </td>
+    <td align="center" width=96>
+      <a >
+        <img src="img/bootstrap-icon.png" alt="Icone bootstrap">
+      </a>
+      <br>Bootstrap
+    </td>
+  </tr>
+</table>
 
-<h3>Front-end technologies :</h3>
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-<h3>Back-end technologies :</h3>
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-D9281A?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
-<h3>Framework :</h3>
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-<h3>Statistical technologies :</h3>
-
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-<h2>Most used languages :</h2>
+<h2>Most used languages :</h2><h2>My GitHub stats card :</h2> 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalcagnoLoic&layout=compact&theme=cobalt&langs_count=8&hide_title=true&" /> 
-</p>
-
-
-<h2>My GitHub stats card :</h2> 
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=CalcagnoLoic&theme=cobalt&hide_title=true" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CalcagnoLoic&theme=cobalt&hide_title=true" /> 
 </p>
 
 <h2>My profile summary card :</h2> 
