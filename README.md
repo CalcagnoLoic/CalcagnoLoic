@@ -21,6 +21,8 @@ After 7 months of intensive training at [becode](https://becode.org/fr/apprendre
 
 <h1 align="center">My tech skills</h1>
 
+> Below you can find the different languages and tools I use in my work: 
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -37,7 +39,7 @@ After 7 months of intensive training at [becode](https://becode.org/fr/apprendre
     </td>
     <td align="center" width="96">
       <img src="img/vscode-icon.png" alt="Icone vscode"  width="48" height="48">
-      <br>VS code
+      <br>VScode
     </td>
     <td align="center" width="96">
       <img src="img/pycharm-icon.png" alt="Icone pycharm" width="48" height="48">
