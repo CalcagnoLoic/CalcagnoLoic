@@ -32,6 +32,12 @@
       </a>
       <br><p>Git</p>
     </td>
+    <td align="center" width=96>
+      <a >
+        <img src="img/github-icon.png" alt="Icone github">
+      </a>
+      <br>Github
+    </td>
     <td align="center">
       <a >
         <img src="img/stack-icon.png" alt="Icone Stackoverflow">
@@ -74,11 +80,61 @@
       </a>
       <br>SASS
     </td>
+  </tr>
+  <tr>
     <td align="center" width=96>
       <a >
         <img src="img/bootstrap-icon.png" alt="Icone bootstrap">
       </a>
       <br>Bootstrap
+    </td>
+    <td align="center">
+      <a>
+        <img src="img/tailwind-icon.png" alt="Icone tailwind"/>
+      </a>
+      <br>Tailwind
+    </td>
+    <td align="center">
+      <a >
+        <img src="img/js-icon.png" alt="Icone js">
+      </a>
+      <br>Javascript
+    </td>
+    <td align="center" width=96>
+      <a >
+        <img src="img/php-icon.png" alt="Icone php">
+      </a>
+      <br>PHP
+    </td>
+    <td align="center" width=96>
+      <a >
+        <img src="img/mysql-icon.png" alt="Icone mysql">
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width=96>
+      <a >
+        <img src="img/sqlite-icon.png" alt="Icone sqlite">
+      </a>
+      <br>SQLite
+    </td>
+    <td align="center" width=96>
+      <a >
+        <img src="img/r-icon.png" alt="Icone r">
+      </a>
+      <br>R
+    </td>
+    <td align="center" width=96>
+      <a >
+        <img src="img/python-icon.png" alt="Icone python">
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width=96>
+      <a >
+        <img src="img/django-icon.png" alt="Icone django">
+      </a>
+      <br>Django
     </td>
   </tr>
 </table>
