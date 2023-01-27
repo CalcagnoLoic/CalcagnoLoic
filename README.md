@@ -1,7 +1,7 @@
 <p align="center">
   <img src="img/hey.gif" alt="Icone git" width=300 align="center"/>
 </p>
-<br>
+
 <h1 align="center">About me</h1>
 
 <p>Hey, welcome to my Github profile <img src="img/hi.png" alt="Icone git" width=20 height=20/></p>
@@ -11,11 +11,11 @@ After 7 months of intensive training at [becode](https://becode.org/fr/apprendre
 <p>During the training, I was confronted with various frontend and backend issues. I went towards the backend and in particular Python. During my internship, I was able to deepen my knowledge with a project focused on data engineering. My job was to create a data pipeline to send only updated data to the database. An artificial intelligence implementation was also added to the pipeline. I was also able to do some cybersecurity with Google autenthification.</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/loic-calcagno-47b0/">
-    <img alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" />
-  </a>
+  <a href="https://www.linkedin.com/in/loic-calcagno/">
+    <img alt="LinkedIn" width="38px" src="img/linkedin.png" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:calcagnoloic93@gmail.com">
-    <img alt="Mail pro gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_Gmail_%282015-2020%29.svg" />
+    <img alt="Mail pro gmail" width="40px" src="img/mail.png" />
   </a>
 </p>
 
@@ -24,38 +24,38 @@ After 7 months of intensive training at [becode](https://becode.org/fr/apprendre
 <table>
   <tr>
     <td align="center">
-      <img src="img/git-icon.png" alt="Icone git" width=68 height=68/>
+      <img src="img/git-icon.png" alt="Icone git" width=68/>
       <br><p>Git</p>
     </td>
     <td align="center">
-      <img src="img/github-icon.png" alt="Icone github" width=68 height=68 />
+      <img src="img/github-icon.png" alt="Icone github" width=68/>
       <br>Github
     </td>
     <td align="center">
-      <img src="img/stack-icon.png" alt="Icone Stackoverflow" width=68 height=68>
+      <img src="img/stack-icon.png" alt="Icone Stackoverflow" width=68 >
       <br>Stackoverflow
     </td>
-    <td align="center" width=68 height=68>
+    <td align="center" width=68>
       <img src="img/vscode-icon.png" alt="Icone vscode">
       <br>Visual Studio Code
     </td>
-    <td align="center" width=68 height=68>
+    <td align="center" width=68>
       <img src="img/pycharm-icon.png" alt="Icone pycharm">
       <br>Pycharm
     </td>
-    <td align="center" width=68 height=68>
+    <td align="center" width=68>
       <img src="img/markdown-icon.png" alt="Icone markdown">
       <br>Markdown
     </td>
-    <td align="center" width=68 height=68>
+    <td align="center" width=68>
       <img src="img/html-icon.png" alt="Icone html">
       <br>HTML
     </td>
-    <td align="center" width=68 height=68>
+    <td align="center" width=68>
       <img src="img/css-icon.png" alt="Icone css">
       <br>CSS
     </td>
-    <td align="center" width=68 height=68>
+    <td align="center" width=68>
       <img src="img/sass-icon.png" alt="Icone sass">
       <br>SASS
     </td>
@@ -117,7 +117,7 @@ After 7 months of intensive training at [becode](https://becode.org/fr/apprendre
   <img src="https://github-readme-stats.vercel.app/api?username=CalcagnoLoic&theme=cobalt&hide_title=true" /> 
 </p>
 
-<h2>My profile summary card :</h2> 
+<h2>My profile summary card</h2> 
 
 <p align="center">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CalcagnoLoic&theme=vue" /> 
