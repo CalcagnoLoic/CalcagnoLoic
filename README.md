@@ -24,19 +24,19 @@ After 7 months of intensive training at [becode](https://becode.org/fr/apprendre
 <table>
   <tr>
     <td align="center">
-      <img src="img/git-icon.png" alt="Icone git" width=68/>
-      <br><p>Git</p>
+      <img src="img/git-icon.png" alt="Icone git" />
+      <br>Git
     </td>
     <td align="center">
-      <img src="img/github-icon.png" alt="Icone github" width=68/>
+      <img src="img/github-icon.png" alt="Icone github"/>
       <br>Github
     </td>
     <td align="center">
-      <img src="img/stack-icon.png" alt="Icone Stackoverflow" width=68 >
+      <img src="img/stack-icon.png" alt="Icone Stackoverflow"/>
       <br>Stackoverflow
     </td>
     <td align="center" width=68>
-      <img src="img/vscode-icon.png" alt="Icone vscode">
+      <img src="img/vscode-icon.png" alt="Icone vscode"  width=68px>
       <br>Visual Studio Code
     </td>
     <td align="center" width=68>
