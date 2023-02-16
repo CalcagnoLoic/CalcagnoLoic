@@ -109,7 +109,7 @@ After 7 months of intensive training at [becode](https://becode.org/fr/apprendre
 <h2>My GitHub Stat Trophies</h2> 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CalcagnoLoic&no-bg=true&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophées Github" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CalcagnoLoic&no-bg=true&theme=juicyfresh" alt="Trophées Github" />
 </p>
 
 <h2>My most used languages and stat cards</h2> 
