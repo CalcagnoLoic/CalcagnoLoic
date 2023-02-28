@@ -84,8 +84,8 @@ After 7 months of intensive training at [becode](https://becode.org/fr/apprendre
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="img/sqlite-icon.png" alt="Icone sqlite" width="48" height="48">
-      <br>SQLite
+      <img src="img/react-icon.png" alt="Icone React" width="48" height="48">
+      <br>React
     </td>
     <td align="center" width="96">
       <img src="img/r-icon.png" alt="Icone r" width="48" height="48">
