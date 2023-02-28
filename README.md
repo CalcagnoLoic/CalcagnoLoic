@@ -6,7 +6,7 @@
 
 <p>Hey, welcome to my Github profile <img src="img/hi.png" alt="Icone git" width=20 height=20/></p>
 
-After 7 months of intensive training at [becode](https://becode.org/fr/apprendre/developpeur-web-junior/) and 3 months of internship at [I-care](https://www.icareweb.com/fr/), I'm looking for a job as a Python Developer Junior 🐍
+After 7 months of intensive training at [becode](https://becode.org/fr/apprendre/developpeur-web-junior/) and 3 months of internship at [I-care](https://www.icareweb.com/fr/), I'm looking for a job as a Developer Junior.
 
 <p>During the training, I was confronted with various frontend and backend issues. I went towards the backend and in particular Python. During my internship, I was able to deepen my knowledge with a project focused on data engineering. My job was to create a data pipeline to send only updated data to the database. An artificial intelligence implementation was also added to the pipeline. I was also able to do some cybersecurity with Google autenthification.</p>
 
@@ -109,7 +109,7 @@ After 7 months of intensive training at [becode](https://becode.org/fr/apprendre
 <h2>My GitHub Stat Trophies</h2> 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CalcagnoLoic&no-bg=true&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophées Github" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CalcagnoLoic&no-bg=true&theme=juicyfresh" alt="Trophées Github" />
 </p>
 
 <h2>My most used languages and stat cards</h2> 
