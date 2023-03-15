@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/hey.gif" alt="Icone git" width=300 align="center"/>
+  <img src="img/hello_world.gif" alt="Bannière github" width=50% align="center"/>
 </p>
 
 <h1 align="center">About me</h1>
@@ -8,7 +8,9 @@
 
 After 7 months of intensive training at [becode](https://becode.org/fr/apprendre/developpeur-web-junior/) and 3 months of internship at [I-care](https://www.icareweb.com/fr/), I'm looking for a job as a Developer Junior.
 
-<p>During the training, I was confronted with various frontend and backend issues. I went towards the backend and in particular Python. During my internship, I was able to deepen my knowledge with a project focused on data engineering. My job was to create a data pipeline to send only updated data to the database. An artificial intelligence implementation was also added to the pipeline. I was also able to do some cybersecurity with Google autenthification.</p>
+<p>During the training, I was confronted with various frontend and backend issues. I am currently looking for a job as a junior developer to put everything I have learned into practice. I am looking for both frontend and backend.</p>
+
+You can find in my [portfolio](https://portfolio-calcagno-loic.netlify.app/) the achievements I am most proud of.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/loic-calcagno/">
@@ -76,20 +78,20 @@ After 7 months of intensive training at [becode](https://becode.org/fr/apprendre
       <br>Javascript
     </td>
     <td align="center" width="96">
-      <img src="img/php-icon.png" alt="Icone php" width="48" height="48">
+      <img src="img/react-icon.png" alt="Icone React" width="48" height="48">
+      <br>ReactJS
+    </td>
+    <td align="center" width="96">
+      <img src="img/vue-icon.png" alt="Icone r" width="48" height="38">
+      <br>VueJS
+    </td>
+    <td align="center" width="96">
+      <img src="img/php-icon.png" alt="Icone php" width="48" height="38">
       <br>PHP
     </td>
     <td align="center" width="96">
       <img src="img/mysql-icon.png" alt="Icone mysql" width="48" height="48">
       <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="img/react-icon.png" alt="Icone React" width="48" height="48">
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="img/r-icon.png" alt="Icone r" width="48" height="48">
-      <br>R
     </td>
     <td align="center" width="96">
       <img src="img/python-icon.png" alt="Icone python" width="48" height="48" > 
