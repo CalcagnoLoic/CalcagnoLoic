@@ -21,12 +21,12 @@ You can find in my [portfolio](https://portfolio-calcagno-loic.netlify.app/) the
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,stackoverflow,vscode,md,html,css,sass,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,js,react,vue,php,mysql,py,django" />
+    <img src="https://skillicons.dev/icons?i=ts,react,php,mysql,py,django" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@ You can find in my [portfolio](https://portfolio-calcagno-loic.netlify.app/) the
 <h2>My most used languages and stat cards</h2> 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalcagnoLoic&layout=compact&theme=algolia&langs_count=8&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalcagnoLoic&layout=compact&theme=algolia&langs_count=10&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" /> 
   <img src="https://github-readme-stats.vercel.app/api?username=CalcagnoLoic&theme=algolia&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" /> 
 </p>
 
