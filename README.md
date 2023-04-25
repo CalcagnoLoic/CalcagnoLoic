@@ -57,10 +57,10 @@ You can find in my [portfolio](https://portfolio-calcagno-loic.netlify.app/) the
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CalcagnoLoic&hide_title=true&langs_count=7&theme=algolia&hide_border=true">
 </p>
 
-<!-->
+<!---
 <h2>My profile summary card</h2> 
 
 <p align="center">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CalcagnoLoic&theme=algolia" /> 
 </p>
-<!-->
+-->
