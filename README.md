@@ -47,6 +47,7 @@ You can find in my [portfolio](https://portfolio-calcagno-loic.netlify.app/) the
   <img src="https://github-readme-stats.vercel.app/api?username=CalcagnoLoic&theme=algolia&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" /> 
 </p>
 
+<!---
 <h2>My wakatime summary card</h2>
 
 > These times correspond to the time interval between 1 February 2022 and today
@@ -57,7 +58,7 @@ You can find in my [portfolio](https://portfolio-calcagno-loic.netlify.app/) the
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CalcagnoLoic&hide_title=true&langs_count=7&theme=algolia&hide_border=true">
 </p>
 
-<!---
+
 <h2>My profile summary card</h2> 
 
 <p align="center">
