@@ -26,7 +26,7 @@ You can find in my [portfolio](https://portfolio-calcagno-loic.netlify.app/) the
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,php,mysql,py,django" />
+    <img src="https://skillicons.dev/icons?i=react,php,mysql,py,django" />
   </a>
 </p>
 
