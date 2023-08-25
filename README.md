@@ -4,7 +4,7 @@
 
 After 7 months of intensive training at [becode](https://becode.org/fr/apprendre/developpeur-web-junior/) and 3 months of internship at [I-care](https://www.icareweb.com/fr/), I'm looking for a job as a Developer Junior. During the training, I was confronted with various frontend and backend issues. I am currently looking for a job as a junior developer to put everything I have learned into practice. I am looking for both frontend and backend.
 
-You can find in my [portfolio](https://portfolio-calcagno-loic.netlify.app/) the achievements I am most proud of.
+You can find in my [portfolio](https://calcagno-loic.netlify.app/) the achievements I am most proud of.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/loic-calcagno/">
