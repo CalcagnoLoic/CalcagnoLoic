@@ -44,7 +44,7 @@ You can find in my [portfolio](https://calcagno-loic.netlify.app/) the achieveme
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalcagnoLoic&layout=compact&theme=algolia&langs_count=10&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" /> 
-  <img src="https://github-readme-stats.vercel.app/api?username=CalcagnoLoic&theme=algolia&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=CalcagnoLoic&theme=algolia&hide_title=true&hide_border=true" /> 
 </p>
 
 
