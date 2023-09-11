@@ -21,12 +21,12 @@ You can find in my [portfolio](https://calcagno-loic.netlify.app/) the achieveme
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,php,mysql,py,django" />
+    <img src="https://skillicons.dev/icons?i=react,redux,mysql,vite" />
   </a>
 </p>
 
