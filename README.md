@@ -21,12 +21,7 @@ You can find in my [portfolio](https://calcagno-loic.netlify.app/) the achieveme
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,mysql,vite" />
+    <img src="https://skillicons.dev/icons?i=tailwind,js,ts,react,redux,mysql,python,vite" />
   </a>
 </p>
 
