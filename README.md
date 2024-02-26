@@ -2,9 +2,20 @@
   <img src="img/banner.png" alt="Bannière github" align="center"/>
 </p>
 
-After 7 months of intensive training at [becode](https://becode.org/fr/apprendre/developpeur-web-junior/) and 3 months of internship at [I-care](https://www.icareweb.com/fr/), I'm looking for a job as a Developer Junior. During the training, I was confronted with various frontend and backend issues. I am currently looking for a job as a junior developer to put everything I have learned into practice. I am looking for both frontend and backend.
+<br>
 
-You can find in my [portfolio](https://calcagno-loic.netlify.app/) the achievements I am most proud of.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,js,python,tailwind,mysql,vscode,figma,postman,vite" />
+  </a>
+</p>
+
+I'm a passionate code developer. Self-taught from the start, I took my first steps with Python. I then undertook training at [BeCode](https://becode.org/fr/apprendre/developpeur-web-junior/), where I acquired skills in JS, TS, React and Python. I did an internship at [I-care](https://www.icareweb.com/fr/) in Python as a data engineer. 
+
+I'm currently specializing in ReactTS and python at NX_academy. I also coach junior developers on ReactTS.
+
+Take a look at my [portfolio](https://calcagno-loic.netlify.app/) to discover my world and the projects I've worked on. 
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/loic-calcagno/">
@@ -15,15 +26,6 @@ You can find in my [portfolio](https://calcagno-loic.netlify.app/) the achieveme
   </a>
 </p>
 
-<br>
-
-<h1 align="center">My tech skills</h1>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,js,ts,react,redux,mysql,python,vite" />
-  </a>
-</p>
 
 <br>
 
@@ -45,18 +47,11 @@ You can find in my [portfolio](https://calcagno-loic.netlify.app/) the achieveme
 
 <h2>My wakatime summary card</h2>
 
-> These times correspond to the time interval between 1 February 2022 and today
+<!-- > These times correspond to the time interval between 1 February 2022 and today
 
-[![wakatime](https://wakatime.com/badge/user/feb05b66-4b7c-4873-a9b9-b5c1b0e71806.svg)](https://wakatime.com/@feb05b66-4b7c-4873-a9b9-b5c1b0e71806)
+[![wakatime](https://wakatime.com/badge/user/feb05b66-4b7c-4873-a9b9-b5c1b0e71806.svg)](https://wakatime.com/@feb05b66-4b7c-4873-a9b9-b5c1b0e71806) -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CalcagnoLoic&hide_title=true&langs_count=7&theme=algolia&hide_border=true">
 </p>
 
-<!---
-<h2>My profile summary card</h2> 
-
-<p align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CalcagnoLoic&theme=algolia" /> 
-</p>
--->
