@@ -20,7 +20,7 @@ Let's keep in touch for more information or future collaboration 😊! Take a lo
   <a href="mailto:calcagnoloic93@gmail.com">
     <img alt="Mail pro gmail" width="40px" src="img/mail.png"/>
   </a>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://calcagno-loic.netlify.app/">
     <img alt="portfolio" width="40px" src="img/portfolio.png"/>
   </a>
