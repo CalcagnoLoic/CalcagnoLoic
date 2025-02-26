@@ -1,17 +1,16 @@
-<p align="center">
-  <img src="img/banner.png" alt="Bannière github" align="center"/>
-</p>
+# 🚀  Bienvenue dans mon univers !
 
-<br>
+Je suis un développeur passionné par la tech, toujours avide d'apprentissage et de nouveaux défis.
 
-I'm a developer with a passion for web development and data processing technologies.
-During my studies, I was able to discover the world of coding with R and data processing combined with biostatistics. After my studies, I started to learn Python on my own, and it was a real revelation for me. I wanted to turn my passion into my profession. 
+Initialement formé en biologie, j’ai découvert le développement en travaillant sur le traitement de données avec **R** et la biostatistique. Cette première approche m’a donné envie d’aller plus loin, et c’est en me formant en autodidacte sur **Python** que j’ai eu le déclic : *je voulais en faire mon métier*.
 
-So I decided to retrain in the world of web development, using the classic programming languages Javascript and PHP  at [BeCode](https://becode.org/fr/apprendre/developpeur-web-junior/). During this transition, I was able to complete a few months' internship at [I-care](https://www.icareweb.com/fr/) as a data engineer. During this internship, I was able to consolidate my skills in Python and learn about data engineering and NLP techniques. 
+J’ai alors pris un virage à 180° en intégrant la formation [BeCode](https://becode.org/fr/apprendre/developpeur-web-junior/), où j’ai acquis les bases du développement frontend et backend. J’ai ensuite renforcé mes compétences lors d’un stage chez [I-care](https://www.icareweb.com/fr/) en tant que **Data Engineer**, où j’ai travaillé sur Python, le NLP et consolidé mes soft skills.
 
-I'm currently perfecting my fullstack skills in React/TS and Python in collaboration with [NX_academy](https://www.linkedin.com/company/nx-academy-france/). I develop solutions for frontend/fullstack projects. In addition, I have two junior developers under my wing with whom I'm working to build their skills in React and the JavaScript environment. 
+Durant près d’un an, j’ai également eu la chance d’être mentoré par [Thomas Dimnet](https://github.com/tdimnet), qui m’a poussé à me dépasser sur React et son écosystème. Cette expérience m’a permis d’approfondir mes connaissances sur les API, Docker et le développement frontend avancé.
 
-Let's keep in touch for more information or future collaboration 😊! Take a look at my [portfolio](https://calcagno-loic.netlify.app/) to discover my world and the projects I've worked on.
+💡 Curieux d’en voir plus ? Découvrez mes projets sur mon [portfolio](https://calcagno-loic.netlify.app/) ! 🚀
+
+## 🔗 Où me retrouver? 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/loic-calcagno/">
@@ -26,44 +25,46 @@ Let's keep in touch for more information or future collaboration 😊! Take a lo
   </a>
 </p>
 
-
 <br>
 
-<h1 align="center">My hard and soft skills</h1>
+# 🛠️ Compétences
 
-
-Thanks to a few years working alongside senior developers and my self-taught work, I've been able to acquire a solid grounding in various technologies. 
-
-
-### _Development tools:_
+## _🔧 Outils de dévelopement:_
  
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) ![vitest](https://img.shields.io/badge/Vitest-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) ![github-actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) 
-### _Frontend technologies:_
+
+
+## _🎨 Développement frontend:_
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
-### _Backend technologies:_
+## _⚙️ Développement backend:_
 
- ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![fastapi](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
+ ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![fastapi](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 
 
-### _Data exploration and ML:_
+## _📱 Développement mobile:_
 
-![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![matplotlib](https://img.shields.io/badge/matplotlib-F37626.svg?&style=for-the-badge&logoColor=white) ![seaborn](https://img.shields.io/badge/seaborn-2088FF?style=for-the-badge&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-Alongside these technical skills, I've obviously been working on my soft-skills. Namely, teamwork, public speaking, code popularization, solution-oriented thinking, and so on.
+## _🤝 Soft skills:_
+
+- ✅ Travail d'équipe
+- ✅ Esprit orienté solution
+- ✅ Prise de parole en public
+- ✅ Entraide et partage de connaissances
 
 <br>
 
-<h1 align="center">My summary cards</h1>
+# 📊 Mes stats
 
-## My GitHub Stat Trophies
+## 🏆 Trophées Github
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CalcagnoLoic&no-bg=true&theme=algolia&row=1&column=7&no-frame=true&margin-w=15" alt="Trophées Github" />
 </p>
 
-## My most used languages and stat cards
+## 📈 Langages et contribution
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalcagnoLoic&layout=compact&theme=algolia&langs_count=10&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" /> 
@@ -71,7 +72,7 @@ Alongside these technical skills, I've obviously been working on my soft-skills.
 </p>
 
 
-## My wakatime summary card 
+## ⏳ Wakatime
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CalcagnoLoic&hide_title=true&langs_count=7&theme=algolia&hide_border=true">
