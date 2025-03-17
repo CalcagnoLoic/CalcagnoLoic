@@ -8,7 +8,7 @@ J’ai alors pris un virage à 180° en intégrant la formation [BeCode](https:/
 
 Durant près d’un an, j’ai également eu la chance d’être mentoré par [Thomas Dimnet](https://github.com/tdimnet), qui m’a poussé à me dépasser sur React et son écosystème. Cette expérience m’a permis d’approfondir mes connaissances sur les API, Docker et le développement frontend avancé.
 
-💡 Curieux d’en voir plus ? Découvrez mes projets sur mon [portfolio](https://calcagno-loic.netlify.app/) ! 🚀
+💡 Curieux d’en voir plus ? Découvrez mes projets sur mon [portfolio](https://calcagno-loic.vercel.app/) ! 🚀
 
 ## 🔗 Où me retrouver? 
 
